@@ -3,6 +3,6 @@
     "description": "CS English Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://cdn.jsdelivr.net/gh/aditya-shri/cs-repos@latest/plugin.json"
+      "https://cdn.jsdelivr.net/gh/aditya-shri/cs-repos@main/plugin.json"
     ]
  }
